@@ -2,51 +2,60 @@
 
 {% block content %}
 <div id="sub-header">
-    <div id="page-desc">View the world's largest challenges:</div>
+    <div id="page-desc">View the world's greatest challenges:</div>
 	
 	<div class="btn-toolbar">
 		<div class="btn-group">
-			<a id="poverty_button" class="btn selected" href="#">Poverty</a>
-			<a id="economic_button" class="btn" href="#">Economic Inequality</a>
-            <a id="infrastructure_button" class="btn" href="#">Infrastructure</a>
+			<a id="poverty_button" class="btn selected" href="#">Poverty Alleviation</a>
+			<a id="economic_button" class="btn" href="#">Economic Equality</a>
+      <a id="infrastructure_button" class="btn" href="#">Infrastructure</a>
 			<a id="human_rights_button" class="btn" href="#">Human Rights</a>
-			<a id="government_button" class="btn" href="#">Government</a>
-            <a id="literacy_button" class="btn" href="#">Literacy Rate</a>
+			<a id="government_button" class="btn" href="#">Government Legitamacy</a>
+      <a id="literacy_button" class="btn" href="#">Literacy Rate</a>
 		</div>
 	</div>
 </div>
 <div class="container-fluid">
     <div class="row-fluid">
         <div class="span2 sidebar">
+            
+
+            <h2><i class="icon-fire"></i>Critical Areas</h2>
             <ul> 
-                <li>Trouble Spot 1</li>
-                <li>Trouble Spot 2</li>
-                <li>Trouble Spot 3</li>
-                <li>Trouble Spot 4</li>
-                <li>Trouble Spot 5</li>
-                <li>Trouble Spot 6</li>
+              <li id="troublespot0"><div class="label danger">Critical</div></li>
+              <li id="troublespot1"><div class="label danger">Critical</div></li>
+              <li id="troublespot2"><div class="label danger">Critical</div></li>
+              <li id="troublespot3"><div class="label danger">Critical</div></li>
+              <li id="troublespot4"><div class="label danger">Critical</div></li>
+              <li id="troublespot5"><div class="label danger">Critical</div></li>
             </ul>
+            <div id="legend">
+              <h4>Legend</h4>
+              <div id="gradient-bar"></div>
+              <p>Darker spots indicate a higher index</p>
+            </div>
         </div>
         <div class="span10 map">
             <div id="map_canvas"></div>
-        </div>
+        </div> 
     </div>
 </div>
 
 <div id="welcomeModal" class="modal hide fade">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
         <div id="logo"> 
 	      <div id="logo-title">project <strong>FREE</strong> world</div>
 	      <div id="logo-tagline">Food. Rights. Education. Environment</div>  
 	    </div>
     </div>
     <div class="modal-body">
-        <p>Crowd solving global issues.</p>
-    </div>
-    <div class="modal-footer">
-        foooter
+        <h3>Crowdsolving global issues</h3>
+        <ul>
+            <li><i class="icon-globe"></i>Get a top down view of the world's biggest issues.</li>
+            <li><i class="icon-fire"></i>Gain awareness about areas in critical conditions.</li>
+            <li><i class="icon-gift"></i>Help out by using the best crowdsolving tools on the planet.</li>
+        </ul>
     </div>
 </div>
 

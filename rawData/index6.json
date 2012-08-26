@@ -1,0 +1,151 @@
+[
+	{
+		"Countries by Continent": "Mali",
+		"LatLng": [17,-4], 
+		"Type": 	"Literacy Rate", 
+		"Value": "26",
+		"Lat": "12°34'N",
+		"Lng": "07°55'W"
+	},
+	{
+		"Countries by Continent": "South Sudan",
+		"LatLng": [5.88, 31.28], 
+		"Type": 		"Literacy Rate",
+		 "Value": "27",
+		"Lat": "#N/A",
+		"Lng": "#N/A"
+	},
+	{
+		"Countries by Continent": "Sudan",
+		"LatLng": [15,30],
+		"Type": 		"Literacy Rate",
+		"Value": "27",
+		"Lat": "15°31'N",
+		"Lng": "32°35'E"
+	},
+	{
+		"Countries by Continent": "Ethiopia",
+		"LatLng": [8,38], 
+		"Type":  "Literacy Rate", 
+		"Value": "28",
+		"Lat": "09°02'N",
+		"Lng": "38°42'E"
+	},
+	{
+		"Countries by Continent": "Burkina Faso",
+		"LatLng": [13,-2], 
+		"Type":  "Literacy Rate", 
+		"Value": "29",
+		"Lat": "12°15'N",
+		"Lng": "01°30'W"
+	},
+	{
+		"Countries by Continent": "Niger",
+		"LatLng": [16,8],
+		 "Type": 	"Literacy Rate", 
+		"Value": "29",
+		"Lat": "13°27'N",
+		"Lng": "02°06'E"
+	},
+	{
+		"Countries by Continent": "Chad",
+		"LatLng": [15,19],
+		"Type": "Literacy Rate", 
+		"Value": "34",
+		"Lat": "12°10'N",
+		"Lng": "14°59'E"
+	},
+	{
+		"Countries by Continent": "Somalia",
+		"LatLng": [10,49], 
+		"Type":  "Literacy Rate", 
+		"Value": "36",
+		"Lat": "02°02'N",
+		"Lng": "45°25'E"
+	},
+	{
+		"Countries by Continent": "Liberia",
+		"LatLng": [6.5,-9.5], 
+		"Type": "Literacy Rate", 
+		"Value": "38",
+		"Lat": "06°18'N",
+		"Lng": "10°47'W"
+	},
+	{
+		"Countries by Continent": "Afghanistan",
+		"LatLng": "Kabul",
+		"Literacy Rate": "38",
+		"Lat": "34°28'N",
+		"Lng": "69°11'E"
+	},
+	{
+		"Countries by Continent": "Guinea",
+		"LatLng": "Conakry",
+		"Literacy Rate": "40",
+		"Lat": "09°29'N",
+		"Lng": "13°49'W"
+	},
+	{
+		"Countries by Continent": "Sierra Leone",
+		"LatLng": "Freetown",
+		"Literacy Rate": "41",
+		"Lat": "08°30'N",
+		"Lng": "13°17'W"
+	},
+	{
+		"Countries by Continent": "Benin",
+		"LatLng": "Porto-Novo",
+		"Literacy Rate": "42",
+		"Lat": "06°23'N",
+		"Lng": "02°42'E"
+	},
+	{
+		"Countries by Continent": "Gambia",
+		"LatLng": "Banjul",
+		"Literacy Rate": "47",
+		"Lat": "13°28'N",
+		"Lng": "16°40'W"
+	},
+	{
+		"Countries by Continent": "Senegal",
+		"LatLng": "Dakar",
+		"Literacy Rate": "50",
+		"Lat": "14°34'N",
+		"Lng": "17°29'W"
+	},
+	{
+		"Countries by Continent": "East Timor",
+		"LatLng": "Dili",
+		"Literacy Rate": "50",
+		"Lat": "08°29'S",
+		"Lng": "125°34'E"
+	},
+	{
+		"Countries by Continent": "Gunea-Bissau",
+		"LatLng": "Bissau",
+		"Literacy Rate": "52",
+		"Lat": "#N/A",
+		"Lng": "#N/A"
+	},
+	{
+		"Countries by Continent": "Togo",
+		"LatLng": "Lomé",
+		"Literacy Rate": "53",
+		"Lat": "06°09'N",
+		"Lng": "01°20'E"
+	},
+	{
+		"Countries by Continent": "Bhutan",
+		"LatLng": "Thimphu",
+		"Literacy Rate": "53",
+		"Lat": "27°31'N",
+		"Lng": "89°45'E"
+	},
+	{
+		"Countries by Continent": "Central African Republic",
+		"LatLng": "Bangui",
+		"Literacy Rate": "55",
+		"Lat": "04°23'N",
+		"Lng": "18°35'E"
+	}
+]
