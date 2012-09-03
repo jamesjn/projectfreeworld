@@ -14,4 +14,4 @@ Basic directory/file structure:
 	static/app/stat_bar.js                  - showing hover over country graph stats bars
 	static/app/trouble_spots.js             - trouble spots markers
 	static/app/json/country_boundaries.json - country boundaries used for polygonal layers
-	rawData/freeworld_sql                   - country statistical data
+	rawData/freeworld.sql                   - country statistical data sql dump
